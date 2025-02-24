@@ -5,7 +5,7 @@
   
 - 📫me interesa aprender sobre ciberseguridad y programacion para apps multiplataforma
   
-- 👾uno de mis hobies favoritos es aprender programacion y diseño de videojuegos
+- 👾uno de mis hobbies favoritos es aprender programacion y diseño de videojuegos
   
 - 💻tambien suelo pasar mi tiempo jugando en linea o offline 
 
