@@ -1,7 +1,7 @@
 <a target="_blank" align="center"><img src = "https://i.gifer.com/bf0.gif" width = "400" align="right" top="500" height="300" ><a/>
 
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?              font=Fira+Code&pause=1000&color=318FF7&center=true&width=435&lines=Bienvenid%40+a+mi+GitHub;Soy+Estudiante+de+Lic.+Informatica" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9AF7&center=true&width=435&lines=Bienvenid%40+a+mi+GitHub;Me+llamo+Dylan;Soy+estudiante+de+Lic.+Informatica" alt="Typing SVG" /></a>
   
 - 📫me interesa aprender sobre ciberseguridad y programacion para apps multiplataforma
   
