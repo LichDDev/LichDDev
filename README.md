@@ -2,14 +2,16 @@
 
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9AF7&center=true&width=435&lines=Bienvenid%40+a+mi+GitHub;Me+llamo+Dylan;Soy+estudiante+de+Lic.+Informatica" alt="Typing SVG" /></a>
+
+- 📫me interesa aprender sobre ciberseguridad y programacion para apps multiplataforma.
   
-- 📫me interesa aprender sobre ciberseguridad y programacion para apps multiplataforma
+- 👾uno de mis hobbies favoritos es aprender programacion y diseño de videojuegos.
   
-- 👾uno de mis hobbies favoritos es aprender programacion y diseño de videojuegos
+- 💻fuera del mundo de la informatica, me gustan los juegos (LOL,Valorant,cs y juegos tipo Days gone o Resident Evil), ver series/peliculas y anime.
   
-- 💻tambien suelo pasar mi tiempo jugando en linea o offline 
 
 ## Check out my Social Media
+
 
 <a href="https://steamcommunity.com/id/Dylan1S/">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"><a/> 
