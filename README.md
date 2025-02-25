@@ -3,6 +3,8 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9AF7&center=true&width=435&lines=Bienvenid%40+a+mi+GitHub;Me+llamo+Dylan;Soy+estudiante+de+Lic.+Informatica" alt="Typing SVG" /></a>
 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+
 - 📫me interesa aprender sobre ciberseguridad y programacion para apps multiplataforma.
   
 - 👾uno de mis hobbies favoritos es aprender programacion y diseño de videojuegos.
