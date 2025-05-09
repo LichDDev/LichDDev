@@ -6,7 +6,7 @@
 
 - 📫me interesa aprender sobre ciberseguridad y programacion para apps multiplataforma.
   
-- 👾uno de mis hobbies favoritos es aprender programacion y diseño de videojuegos.Name the song ! #electricguitar #guitartok #fyp #fypシ゚  #cover  #123 
+- 👾uno de mis hobbies favoritos es aprender programacion y diseño de videojuegos.
 
   
 - 💻fuera del mundo de la informatica, me gustan los juegos (LOL,Valorant,cs y juegos tipo Days gone o Resident Evil), ver series/peliculas y anime.
